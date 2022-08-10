@@ -10,7 +10,7 @@
     "package.json"
   ],
   "dependencies": {
-    "@sumeetgohil/core": "0.0.1"
+    "@sumeetgohil/core": "^0.0.1"
   },
   "devDependencies": {
     "tsup": "^6.2.1",
