@@ -1,6 +1,6 @@
 {
   "name": "@sumeet-gohil/domain",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "types": "./dist/index.d.ts",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -9,7 +9,7 @@
     "package.json"
   ],
   "dependencies": {
-    "@sumeet-gohil/core": "^0.0.10"
+    "@sumeet-gohil/core": "^0.0.11"
   },
   "devDependencies": {
     "tsup": "^6.2.1",
