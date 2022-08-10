@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "baseUrl": "."
+  },
+  "exclude": ["node_modules", "**/*/dist", "**/*.spec.ts"],
+  "references": [{
+    "path": "./packages/core/tsconfig.json"
+  }, {
+    "path": "./packages/domain/tsconfig.json"
+  }]
+}
