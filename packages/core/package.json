@@ -15,6 +15,6 @@
   "scripts": {
     "build": "tsup"
   },
-  "gitHead": "237df2621c99b54ef1f2153482fca9d47814eabe",
+  "gitHead": "28948f347e3a3b966b9276ce4485cd278ae67446",
   "license": "MIT"
 }
