@@ -16,5 +16,9 @@
   "scripts": {
     "lerna": "lerna",
     "build": "lerna run build"
-  }
+  },
+  "publishConfig": {
+    "@sumeetgohil:registry": "https://npm.pkg.github.com"
+  },
+  "repository": "https://github.com/Sumeet-Gohil/sample-repo.git"
 }
