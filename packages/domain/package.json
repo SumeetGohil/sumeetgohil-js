@@ -18,7 +18,7 @@
   "scripts": {
     "build": "tsup"
   },
-  "gitHead": "757f3bbca1ce56bcd286084fb0c77767cb68e2ba",
+  "gitHead": "aec039374503aa7421edbafbc7aa93b26cd5ac4d",
   "license": "UNLICENSED",
   "repository": "https://github.com/Sumeet-Gohil/sample-repo.git"
 }
