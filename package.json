@@ -17,5 +17,5 @@
     "lerna": "lerna",
     "build": "lerna run build"
   },
-  "repository": "https://github.com/Sumeet-Gohil/sample-repo.git"
+  "repository": "https://github.com/SumeetGohil/sumeetgohil-js.git"
 }
